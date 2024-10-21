@@ -1,2 +1,2 @@
 Readme files
-![Git Cheatsheet](git Cheatsheet.jpg)
+![Git Cheatsheet](Cheatsheet.jpg)
